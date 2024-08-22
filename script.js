@@ -1,6 +1,6 @@
 //your code here!
 document.addEventListener('DOMContentLoaded', function() {
-    const list = document.getElementById('infinite-list');
+    const list = document.getElementById('infi-list');
     let listItemCount = 10; // Initial number of items
 
     // Function to add list items
